@@ -5,7 +5,7 @@ Project ini dibuat untuk mengikuti kompetisi https://www.kaggle.com/competitions
 
 📌 Deskripsi Proyek
 Tujuan proyek ini adalah membangun model prediksi harga rumah yang akurat dengan memanfaatkan:
-- **Feature Engineering **untuk meningkatkan kualitas data.
+- **Feature Engineering** untuk meningkatkan kualitas data.
 - **Model Baseline** sebagai titik pembanding.
 - **Stacking Regressor** untuk menggabungkan kekuatan beberapa algoritma.
 - **Evaluasi Model** dengan metrik R² dan RMSE.
